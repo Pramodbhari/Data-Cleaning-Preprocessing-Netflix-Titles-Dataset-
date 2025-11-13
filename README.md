@@ -2,7 +2,7 @@
 
 This repository contains my solution for **Task 1** of the Elevate Labs Data Analyst Internship — performed on the **Netflix Titles Dataset**.
 
----
+--
 
 ## 📁 Dataset
 The dataset used: **netflix_titles.csv**  
